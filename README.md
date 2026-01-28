@@ -24,7 +24,7 @@ Built for:
 ---
 
 ## 🚀 Live Demo
-👉 **Coming soon**
+👉 https://sales-text-ai--tomasvavra1995.replit.app
 
 (Free version included)
 
